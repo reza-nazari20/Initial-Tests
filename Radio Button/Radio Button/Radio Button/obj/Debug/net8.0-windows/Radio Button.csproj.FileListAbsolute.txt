@@ -1,0 +1,17 @@
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\bin\Debug\net8.0-windows\Radio Button.exe
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\bin\Debug\net8.0-windows\Radio Button.deps.json
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\bin\Debug\net8.0-windows\Radio Button.runtimeconfig.json
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\bin\Debug\net8.0-windows\Radio Button.dll
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\bin\Debug\net8.0-windows\Radio Button.pdb
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\obj\Debug\net8.0-windows\Radio_Button.Form1.resources
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\obj\Debug\net8.0-windows\Radio Button.csproj.GenerateResource.cache
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\obj\Debug\net8.0-windows\Radio Button.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\obj\Debug\net8.0-windows\Radio Button.AssemblyInfoInputs.cache
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\obj\Debug\net8.0-windows\Radio Button.AssemblyInfo.cs
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\obj\Debug\net8.0-windows\Radio Button.csproj.CoreCompileInputs.cache
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\obj\Debug\net8.0-windows\Radio Button.sourcelink.json
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\obj\Debug\net8.0-windows\Radio Button.dll
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\obj\Debug\net8.0-windows\refint\Radio Button.dll
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\obj\Debug\net8.0-windows\Radio Button.pdb
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\obj\Debug\net8.0-windows\Radio Button.genruntimeconfig.cache
+E:\Practice\Initial-Tests\Radio Button\Radio Button\Radio Button\obj\Debug\net8.0-windows\ref\Radio Button.dll
