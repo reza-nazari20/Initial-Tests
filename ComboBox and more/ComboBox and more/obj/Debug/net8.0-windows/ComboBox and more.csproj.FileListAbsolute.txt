@@ -1,0 +1,17 @@
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\bin\Debug\net8.0-windows\ComboBox and more.exe
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\bin\Debug\net8.0-windows\ComboBox and more.deps.json
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\bin\Debug\net8.0-windows\ComboBox and more.runtimeconfig.json
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\bin\Debug\net8.0-windows\ComboBox and more.dll
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\bin\Debug\net8.0-windows\ComboBox and more.pdb
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\obj\Debug\net8.0-windows\ComboBox_and_more.Form1.resources
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\obj\Debug\net8.0-windows\ComboBox and more.csproj.GenerateResource.cache
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\obj\Debug\net8.0-windows\ComboBox and more.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\obj\Debug\net8.0-windows\ComboBox and more.AssemblyInfoInputs.cache
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\obj\Debug\net8.0-windows\ComboBox and more.AssemblyInfo.cs
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\obj\Debug\net8.0-windows\ComboBox and more.csproj.CoreCompileInputs.cache
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\obj\Debug\net8.0-windows\ComboBox and more.sourcelink.json
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\obj\Debug\net8.0-windows\ComboBox and more.dll
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\obj\Debug\net8.0-windows\refint\ComboBox and more.dll
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\obj\Debug\net8.0-windows\ComboBox and more.pdb
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\obj\Debug\net8.0-windows\ComboBox and more.genruntimeconfig.cache
+E:\Practice\Initial-Tests\ComboBox,ListBox,CheckBox\ComboBox and more\ComboBox and more\obj\Debug\net8.0-windows\ref\ComboBox and more.dll
