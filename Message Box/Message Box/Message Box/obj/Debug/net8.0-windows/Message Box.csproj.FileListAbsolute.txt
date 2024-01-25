@@ -1,0 +1,16 @@
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\bin\Debug\net8.0-windows\Message Box.exe
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\bin\Debug\net8.0-windows\Message Box.deps.json
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\bin\Debug\net8.0-windows\Message Box.runtimeconfig.json
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\bin\Debug\net8.0-windows\Message Box.dll
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\bin\Debug\net8.0-windows\Message Box.pdb
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\obj\Debug\net8.0-windows\Message_Box.Form1.resources
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\obj\Debug\net8.0-windows\Message Box.csproj.GenerateResource.cache
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\obj\Debug\net8.0-windows\Message Box.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\obj\Debug\net8.0-windows\Message Box.AssemblyInfoInputs.cache
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\obj\Debug\net8.0-windows\Message Box.AssemblyInfo.cs
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\obj\Debug\net8.0-windows\Message Box.csproj.CoreCompileInputs.cache
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\obj\Debug\net8.0-windows\Message Box.dll
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\obj\Debug\net8.0-windows\refint\Message Box.dll
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\obj\Debug\net8.0-windows\Message Box.pdb
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\obj\Debug\net8.0-windows\Message Box.genruntimeconfig.cache
+E:\Practice\Initial Tests\Message Box\Message Box\Message Box\obj\Debug\net8.0-windows\ref\Message Box.dll
